@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Automobile and Aircraft</title>
+        <link rel="stylesheet" href="css-1.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="center">
+            <h1>Automobile and Aircraft Data Entry Form</h1>
+            <p>To 'save' data to database, enter aircraft and automobile info below.</p>
+            <form action='form-processor-classes.jsp' method="post">
+                <table class="center">
+                    <tr><th id="th-id2" colspan="2">Automobile Information</th></tr>
+                    <tr>
+                        <td>Number of Doors:</td>
+                        <td><input type="text" name="autoNumDoors"></td>
+                    </tr>
+                    <tr>
+                        <td>Total Occupants:</td>
+                        <td><input type="text" name="autoTotalOccupants"></td>
+                    </tr>
+                    <tr>
+                        <td>Miles-Per-Gallon</td>
+                        <td><input type="text" name="autoMpg"></td>
+                    </tr>
+                    <tr>
+                        <td>Transmission Type:</td>
+                            <td><select name="autoTransType">
+                                    <option value="2-wheel-drive">2-Wheel Drive</option>
+                                    <option value="4-wheel-drive">4-Wheel Drive</option>
+                                    <option value="all-wheel-drive">All-Wheel Drive</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </td>    
+                    </tr>
+                    <tr><th id="th-id1" colspan="2">Aircraft Information</th></tr>
+                    <tr>
+                        <td>Max Weight Capacity:</td>
+                        <td><input type="text" name="airMaxWeight"></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Seats:</td>
+                        <td><input type="text" name="airNumSeats"></td>
+                    </tr>
+                    <tr>
+                        <td>Flight Range in Miles:</td>
+                        <td><input type="text" name="airFlightRange"></td>
+                    </tr>
+                    <tr>
+                        <td>Engine Type/Configuration:</td>
+                            <td><select name="airEngineType">
+                                    <option value="single">Single</option>
+                                    <option value="double">Double</option>
+                                    <option value="jet">Jet</option>
+                                    <option value="other">Other</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr><th id="th-id3" colspan="2">Submit Information Below</th></tr>
+                    <tr>
+                        <td colspan="2"><br><input type="submit" class="table_header"
+                                       value="Save Data"></td>
+                    </tr>
+                </table>    
+            </form>
+        </div>
+    </body>
+</html>

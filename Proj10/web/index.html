@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>College Information and Personal Interests</title>
+        <link rel="stylesheet" href="css-1.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    <body>
+        <div class="center">
+            <h1>Student Information</h1>
+            <p>Please enter the following information.</p>
+            <form action="form-processor-one.jsp" method="get"><!--this needs to change-->
+                <table class="center">
+                    <tr><th id="th-id1" colspan="2">Student Information</th></tr>
+                    <tr>
+                        <td>First Name:</td>
+                        <td><input type="text" name="firstName"></td>
+                    </tr>
+                    <tr>
+                        <td>Last Name:</td>
+                        <td><input type="text" name="lastName"></td>
+                    </tr>
+                    <tr>
+                        <td>College Name:</td>
+                        <td><input type="text" name="collegeName"></td>
+                    </tr>
+                    <tr>
+                        <td>Phone Number (10 digits):</td>
+                        <td><input type="text" name="phoneNumber"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><br><input type="submit" value="Save Student Info"></td>
+                    </tr>
+                </table>
+            </form>            
+        </div>
+        <div class="center">
+            <h1>Tell Me About Your Self</h1>
+            <form action="form-processor-two.jsp" method="post">
+                <table class="center">
+                    <tr><th id="th-id1" colspan="2">Interest Information</th></tr>
+                    <tr>
+                        <td>Favorite Sport:</td>
+                        <td><select name="favoriteSport">
+                                <option value="Football">Football</option>
+                                <option value="Baseball">Baseball</option>
+                                <option value="Basketball">Basketball</option>
+                                <option value="Soccer">Soccer</option>
+                                <option value="Hockey">Hockey</option>
+                            </select>                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Favorite Team:</td>
+                        <td><select name="favoriteTeam">
+                                <option value="Dallas Cowboys">Dallas Cowboys</option>
+                                <option value="San Antonio Spurs">San Antonio Spurs</option>
+                                <option value="Houston Astros">Houston Astros</option>
+                                <option value="Dallas Scorch">Dallas Scorch</option>
+                                <option value="Red Wings">Red Wings</option>
+                            </select>                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Favorite Player:</td>
+                        <td><select name="favoritePlayer">
+                                <option value="Tony Romo">Tony Romo</option>
+                                <option value="Jason Witten">Jason Witten</option>
+                                <option value="Dak Prescot">Dak Prescot</option>
+                                <option value="Shawn Lee">Shawn Lee</option>
+                                <option value="Dez Bryant">Dez Bryant</option>
+                            </select>                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Reason they are your favorite:</td>
+                        <td><input type="text" name="reasonFavorite"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><br><input type="submit" value="Save Interest Info"></td>
+                    </tr>
+                </table>
+            </form>            
+        </div>
+    </body>
+</html>

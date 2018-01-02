@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta property="og:image" content="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/Red_Hat_RGB.jpg" />    <!--[if IE]><![endif]-->
+<script id="dpal" type="text/javascript" src="//www.redhat.com/dtm.js"></script>
+<script id="ddo" type="text/javascript">
+<!--//--><![CDATA[//><!--
+    var digitalData = {"cart":[],"event":[],"listing":{"browseFilter":"","query":"","queryMethod":"","refinementType":"","refinementValue":"","resultCount":"","searchType":""},"page":{"attributes":{"queryParameters":"","referringSearchEngine":"","taxonomyPageSubType":["4651"],"taxonomyBusinessChallange":["151"],"taxonomyProduct":["8431"],"taxonomyProductLine":["851"],"taxonomyRegion":["4521"],"taxonomySolution":["1081"],"taxonomyTopic":["4511"]},"category":{"contentType":"","keyPage":"false","keyPageType":"","pageType":"page","primaryCategory":"technologies","subCategories":["jboss-middleware"]},"pageInfo":{"cms":"RH CMS 8.1","contentFindingMethod":"","contentID":"3621","contentPortal":"","destinationURL":"https:\/\/www.redhat.com\/en\/technologies\/jboss-middleware","errorMessage":"","errorType":"","language":"en","pageName":"","referringDomain":"","referringURL":"","sysEnv":"","template":"","title":"Red Hat JBoss Middleware"}},"product":[],"user":[{"profile":[{"profileInfo":{"daysSinceLastPurchase":"","demandbaseSID":"","eloquaGUID":"","lastLoginDate":"","lastPurchaseDate":"","loggedIn":"false","profileID":"","subscriptionFrequency":"","subscriptionLevel":""}}]}]};
+    !function(a,b,c){"use strict";function d(a){var c="; "+b.cookie,d=c.split("; "+a+"=");if(2===d.length)return d.pop().split(";").shift()}if(b.referrer){var e=b.createElement("a");e.href=b.referrer,c.page.pageInfo.referringDomain=e.hostname,c.page.pageInfo.referringURL=e.href}c.page.pageInfo.sysEnv=a.innerWidth<=768?"tablet":"desktop";var f=c.user[0].profile[0].profileInfo,g=d("rh_elqCustomerGUID");g&&(f.eloquaGUID=g);var h=d("rh_user");if(h){var i=h.split("\\|");i[0]&&(f.loggedIn="true")}var j=d("s_dmdbase");j&&(f.demandbaseSID=j)}(window,document,digitalData);
+//--><!]]>
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="node-type" content="page" />
+<meta name="last-publish-date" content="Wed, 20 Sep 2017 18:46:56 GMT" />
+<link rel="shortcut icon" href="https://www.redhat.com/profiles/rh/themes/redhatdotcom/favicon.ico" type="image/x-icon" />
+<meta name="taxonomy-page-sub-type" content="Product line story" />
+<meta name="taxonomy-business-challange" content="Integrate applications, data, and processes" />
+<meta name="taxonomy-solution" content="Application integration and development" />
+<meta name="taxonomy-region" content="Global" />
+<meta name="taxonomy-product-line" content="JBoss Middleware" />
+<meta name="taxonomy-product" content="Red Hat JBoss Middleware" />
+<link href="https://www.redhat.com/en/technologies/jboss-middleware" rel="alternate" hreflang="en" />
+<meta name="taxonomy-topic" content="xPaaS" />
+<link href="https://www.redhat.com/fr/technologies/jboss-middleware" rel="alternate" hreflang="fr" />
+<link href="https://www.redhat.com/zh/technologies/jboss-middleware" rel="alternate" hreflang="zh" />
+<link href="https://www.redhat.com/es/technologies/jboss-middleware" rel="alternate" hreflang="es" />
+<link href="https://www.redhat.com/de/technologies/jboss-middleware" rel="alternate" hreflang="de" />
+<link href="https://www.redhat.com/it/technologies/jboss-middleware" rel="alternate" hreflang="it" />
+<link href="https://www.redhat.com/ko/technologies/jboss-middleware" rel="alternate" hreflang="ko" />
+<meta http-equiv="content-language" content="en" />
+<link href="https://www.redhat.com/pt-br/technologies/jboss-middleware" rel="alternate" hreflang="pt-br" />
+<link href="https://www.redhat.com/ja/technologies/jboss-middleware" rel="alternate" hreflang="ja" />
+<meta name="description" content="Red Hat JBoss Middleware offers high performance, scalability, stability, 24x7 support, and a low TCO. See how open source middleware from Red Hat works." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.redhat.com/en/technologies/jboss-middleware" />
+
+    <title>Red Hat JBoss Middleware</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__Ijv5iigsrbR5-deODiVhp8t8pQyRvbw0jO7lvWla-kg__uf3hch5X5_uKidmf8X8hKg0icfc7uZfJsgxGHKxv3Qc__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@media (max-width:767px){.item.node-228321{background-image:url(https://www.redhat.com/cms/managed-files/Corporate_Red_2_28.jpg);}}@media (min-width:768px){.item.node-228321{background-image:url(https://www.redhat.com/cms/managed-files/Corporate_Red_2_28.jpg);}}.lt-ie9 .item.node-228321{background-image:url(https://www.redhat.com/cms/managed-files/Corporate_Red_2_28.jpg);}.carousel-indicators li.node-icon-228321{background-image:url(https://www.redhat.com/cms/managed-files/Corporate_Red_2_28.jpg);}
+
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__W40ba8mm9mKIpNc22BQ20Iq5iWDGjnCB-MJQVQhv0NQ__QuFv302xlo3Tfb5UsoxrxZZHM9mK_D42y6sLc2rswqU__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__FAwh7iJGNvjTMUQCL4Px_IFO9-luAfME1Sy67NPnlq4__Z6JoFAXy7pUgMOMxSZ0iuVoFNZ-HS_qcNDjgITRQiOc__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__4SAHbjIlop4yPVHcTlAVkFAm2KyrG0QfgW127LqYIBY__Ad3p7kIhtYvlErIHCigI-L4LxhRylGLWn1iVZOuH6BE__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__wpajrf8pWA19ifT2xQXPB3J1TByoCXqZVtt6kXfl4Ow__N-KroenJ4sX8cNHqbuUx60M6smex4U01uD1zEVkieXM__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.css" media="print" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__njxMpwSi51b6jbLBApwtKotmRwKEqYnOXZO7s3tQb4o__8etEBB_FUOfovGz-fUbC9QIQu4ERiXbecIxWCck0E_k__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/files/webux/css/product-line/product-line.css?ozd081" media="all" />
+
+    <!--[if lt IE 9]>
+      <script src="/profiles/rh/themes/redhatdotcom/js/selectivizr-min.js" type="text/javascript"></script>
+      <script src="/profiles/rh/themes/redhatdotcom/js/nwmatcher-min.js" type="text/javascript"></script>
+      <script src="/profiles/rh/themes/redhatdotcom/js/respond.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="/sites/default/files/advagg_js/js__bnkFOxfBidOKd8WI_eqevBOXeQA24fYSvVdRvHuMwWc__lNsmOQJe-JsAab-m3lioSkhjhrhJ1fI_e8j3zkj4YzI__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"redhatdotcom","theme_token":"F8BaPb30UUVjhv0NDR_ieCZeR7wUNhhPUUWDRpq8FH4","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"modules\/locale\/locale.css":1,"sites\/all\/libraries\/rh_iconfont\/dist\/files\/rh-iconfont.css":1,"sites\/all\/libraries\/rh_iconfont\/dist\/files\/rh-web-iconfont.css":1,"profiles\/rh\/themes\/redhatdotcom\/css\/bootstrap.css":1,"profiles\/rh\/themes\/redhatdotcom\/css\/chrome.css":1,"profiles\/rh\/themes\/redhatdotcom\/css\/overpass.css":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery.selectBoxIt\/jquery.selectBoxIt.css":1,"profiles\/rh\/themes\/redhatdotcom\/css\/print.css":1,"sites\/all\/libraries\/webrh\/dist\/css\/webrh.css":1,"profiles\/rh\/themes\/redhatdotcom\/css\/style.css":1,"profiles\/rh\/themes\/redhatdotcom\/css\/editorial.css":1,"files\/webux\/css\/product-line\/product-line.css":1},"js":{"sites\/all\/modules\/picture\/picturefill\/matchmedia.js":1,"sites\/all\/modules\/picture\/picturefill\/picturefill.js":1,"sites\/all\/modules\/picture\/picture.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/rh\/modules\/redhat_www_ddo\/dist\/post-jquery.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/libraries\/webrh\/dist\/js\/webrh.vendor.js":1,"sites\/all\/libraries\/webrh\/dist\/js\/webrh.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect-slide.min.js":1,"profiles\/rh\/modules\/redhat_www_menu\/js\/rh_nav.js":1,"sites\/all\/libraries\/jquery-cookie\/jquery.cookie-1.4.1.min.js":1,"profiles\/rh\/modules\/redhat_www_share\/js\/rh_share.js":1,"profiles\/rh\/modules\/redhat_www_solr\/js\/rh_solr.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/modernizr.min.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery.pushmenu.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery-scrolltofixed.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/waypoints.min.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/sass-bootstrap.min.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/rh-chrome.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery.fitvids.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery.switchIt.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery.selectBoxIt\/jquery.selectBoxIt.js":1,"profiles\/rh\/themes\/redhatdotcom\/js\/jquery.viewport\/jquery.viewport.min.js":1}},"rh_analytics_enabled":false,"redhat_www_share":{"linkedin":{"popup":true,"window":{"height":"570","width":"520"}},"facebook":{"popup":true,"window":{"height":"400","width":"600"}},"google":{"popup":true,"window":{"height":"650","width":"500"}},"reddit":{"popup":true,"window":{"height":"700","width":"850"}},"twitter":{"popup":true,"window":{"height":"500","width":"500"}}},"urlIsAjaxTrusted":{"\/en\/search\/node":true}});
+//--><!]]>
+</script>
+  </head>
+  <body class="bands-index html not-front not-logged-in no-sidebars page-node page-node- page-node-3621 node-type-page i18n-en editorial product-line header-background-product-line-jboss " >
+    <div class="page">
+      
+      
+
+
+
+<div class="header-background-image">
+</div>
+
+
+
+<header class="main-header">
+
+  <div id="main-nav-wrap">
+    <div id="main-menu" class="clearfix">
+      <div class="container">
+        <div class="logo-mobile-wrap">
+          <div id="logo">
+            <a href="/en"><img src="/profiles/rh/themes/redhatdotcom/img/logo.png" class="screen" title="Red Hat" /></a>
+            <a href="/en"><img src="/profiles/rh/themes/redhatdotcom/img/logo-print.png" class="print" title="" /></a>
+          </div>
+          <div id="mobile-nav">
+            <ul>
+              <li class="mobile-search">
+                <a class="expand-mobile-search" href="#">Search</a>
+              </li>
+              <li class="mobile-drop">
+                <a class="expand-mobile-nav" href=""></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div id="mobile-utility-nav">
+          <ul class="main">
+            <li class="trigger"><a href="#account-tray" class="account">Log in<i class="web-icon web-icon-user"></i></a>
+            </li>
+            <li class="trigger"><a href="#global-tray" class="global">Global preferences<i class="web-icon web-icon-globe"></i></a></li>
+          </ul>
+          <ul class="tray account-tray" id="account-tray">
+                          <li class="first rh-user-loggedout"><a href="https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/legacy-idp-servlets" id="redhat-account-login-link" class="account-login-link utility-user-login-link">Log in</a></li>
+                                      <li class="last rh-user-loggedout"><a href="https://www.redhat.com/wapps/ugc/register.html" class="account-register-link">Register</a></li>
+                                      <li class="first rh-user-loggedin"><a href="https://www.redhat.com/wapps/ugc/protected/account.html" class="account-edit-link">Edit your profile and preferences</a></li>
+                                      <li class="last rh-user-loggedin"><a href="https://sso.redhat.com/auth/realms/redhat-external/logout" id="redhat-account-logout-link" class="account-logout-link">Log out</a></li>
+                      </ul>
+          <ul class="tray global-tray" id="global-tray">
+                          <li class="first trigger"><a href="#global-language-tray" class="global-language">Select language</a>
+                <div id="global-language-tray" class="tray global-language-tray">
+                  <section><div><div><a href="/zh/technologies/jboss-middleware" class="language-link" xml:lang="zh" hreflang="zh" title="JBoss Middleware story">简体中文</a></div><div><a href="/en/technologies/jboss-middleware" class="language-link active" xml:lang="en" hreflang="en" title="JBoss Middleware story">English</a></div><div><a href="/fr/technologies/jboss-middleware" class="language-link" xml:lang="fr" hreflang="fr" title="JBoss Middleware story">Français</a></div><div><a href="/de/technologies/jboss-middleware" class="language-link" xml:lang="de" hreflang="de" title="JBoss Middleware story">Deutsch</a></div></div><div><div><a href="/it/technologies/jboss-middleware" class="language-link" xml:lang="it" hreflang="it" title="JBoss Middleware story">Italiano</a></div><div><a href="/ja/technologies/jboss-middleware" class="language-link" xml:lang="ja" hreflang="ja" title="JBoss Middleware story">日本語</a></div><div><a href="/ko/technologies/jboss-middleware" class="language-link" xml:lang="ko" hreflang="ko" title="JBoss Middleware story">한국어</a></div><div><a href="/pt-br/technologies/jboss-middleware" class="language-link" xml:lang="pt-br" hreflang="pt-br" title="JBoss Middleware story">Português</a></div><div><a href="/es/technologies/jboss-middleware" class="language-link" xml:lang="es" hreflang="es" title="JBoss Middleware story">Español</a></div></div></section>                </div>
+              </li>
+                                      <li class="last trigger"><a href="#global-countries-tray" class="global-countries">Explore countries</a>
+                <div id="global-countries-tray" class="tray global-countries-tray">
+                  <ul class="menu"><li class="first expanded trigger"><a class="asia-pacific">Asia Pacific</a><div class="tray asia-pacific-tray"><ul class="menu"><li class="first leaf"><a href="/en/global/china">China</a></li>
+<li class="leaf"><a href="/en/global/india">India</a></li>
+<li class="leaf"><a href="/en/global/japan">Japan</a></li>
+<li class="last leaf"><a href="/en/global/south-korea">South Korea</a></li>
+</ul></div></li><li class="expanded trigger"><a class="europe-middle-east-and-africa">Europe, Middle East, and Africa</a><div class="tray europe-middle-east-and-africa-tray"><ul class="menu"><li class="first leaf"><a href="/en/global/austria">Austria</a></li>
+<li class="leaf"><a href="/en/global/czech-republic">Czech Republic</a></li>
+<li class="leaf"><a href="/en/global/denmark">Denmark</a></li>
+<li class="leaf"><a href="/en/global/finland">Finland</a></li>
+<li class="leaf"><a href="/en/global/france">France</a></li>
+<li class="leaf"><a href="/en/global/germany">Germany</a></li>
+<li class="leaf"><a href="/en/global/italy">Italy</a></li>
+<li class="leaf"><a href="/en/global/netherlands">Netherlands</a></li>
+<li class="leaf"><a href="/en/global/norway">Norway</a></li>
+<li class="leaf"><a href="/en/global/poland">Poland</a></li>
+<li class="leaf"><a href="/en/global/russia">Russia</a></li>
+<li class="leaf"><a href="/en/global/south-africa">South Africa</a></li>
+<li class="leaf"><a href="/en/global/sweden">Sweden</a></li>
+<li class="leaf"><a href="/en/global/switzerland">Switzerland</a></li>
+<li class="last leaf"><a href="/en/global/united-kingdom">United Kingdom</a></li>
+</ul></div></li><li class="expanded trigger"><a class="latin-america">Latin America</a><div class="tray latin-america-tray"><ul class="menu"><li class="first leaf"><a href="/en/global/argentina">Argentina</a></li>
+<li class="leaf"><a href="/en/global/brazil">Brazil</a></li>
+<li class="leaf"><a href="/en/global/chile">Chile</a></li>
+<li class="leaf"><a href="/en/global/colombia">Colombia</a></li>
+<li class="last leaf"><a href="/en/global/mexico">Mexico</a></li>
+</ul></div></li><li class="last expanded trigger"><a class="north-america">North America</a><div class="tray north-america-tray"><ul class="menu"><li class="first last leaf"><a href="/en/global/united-states">United States</a></li>
+</ul></div></li></ul>                </div>
+              </li>
+                      </ul>
+        </div>
+        <nav id="main-nav">
+          <ul>
+            <li class="first expanded active-trail nav-links top-level-wrapper"><a href="/en/technologies" class="active-trail active">Technologies</a></li>
+<li class="expanded nav-links top-level-wrapper"><a href="/en/services">Services &amp; support</a></li>
+<li class="expanded nav-links top-level-wrapper"><a href="/en/success-stories">Success stories</a></li>
+<li class="last expanded nav-links top-level-wrapper"><a href="/en/about">About Red Hat</a></li>
+          </ul>
+        </nav>
+        <div id="to-top">
+          <a class="btn_slideto" href="">
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="main-subnav">
+      <div class="container">
+      </div>
+    </div>
+  </div>
+  <div id="second-menu">
+    <div class="container">
+      <nav id="secondary-nav">
+        <ul class="menu"><li class="first leaf"><a href="/en/customers">Customers</a></li>
+<li class="leaf"><a href="/en/partners">Partners</a></li>
+<li class="leaf"><a href="/en/developers">Developers</a></li>
+<li class="leaf"><a href="/en/open-source">Open source</a></li>
+<li class="last leaf"><a href="//www.redhat.com/en/store">Store</a></li>
+</ul>      </nav>
+      <nav id="utility-nav">
+        <div class="item-list"><ul><li id="utility-search" class="switch first" title="Search"><a href="/en/search" class="expand" onclick="return false;">Search</a></li>
+<li id="utility-account" class="switch" title="Accounts"><a href="https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/legacy-idp-servlets" class="expand" onclick="return false;">Log in</a></li>
+<li id="utility-globe" class="switch last" title="Global Preferences"><a href="/en/about/around-the-world" class="expand" onclick="return false;">English</a></li>
+</ul></div>      </nav>
+    </div>
+  </div>
+
+  <div id="sliding-utility-panel">
+    <div id="search-panel" class="utility-panel">
+      <div class="utility-content">
+        <form class="search-form" action="/en/search/node" method="post" id="redhat-www-solr-search-box" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label class="element-invisible" for="edit-keys">Enter your keywords </label>
+ <input maxlength="128" size="15" placeholder="Enter your search term" type="text" id="edit-keys" name="keys" value="" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div><input type="hidden" name="form_build_id" value="form-n6UYqjMU1DUSeXdQb_JN-V0xg2v_YXptIIdzYYkgFbA" />
+<input type="hidden" name="form_id" value="redhat_www_solr_search_box" />
+</div></form>      </div>
+    </div>
+    <div id="account-panel" class="utility-panel">
+        <div class="utility-content">
+                      <section class="account-tray">
+  <header>
+    <div class="container">
+              <p class="rh-login-heading rh-user-loggedin">Welcome, <span class='rh-name'></span></p>
+                    <p class="rh-login-heading rh-user-loggedout">Log in to your Red Hat account</p>
+          </div>
+  </header>
+  <div class="content">
+    <div class="container">
+      <section class="account-login rh-user-loggedout">
+        <div class="account-login-wrapper">
+                      <a href="https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/legacy-idp-servlets" id="redhat-account-login-link" class="account-login-link utility-user-login-link">Log in</a>                                <p>Your Red Hat account gives you access to your member profile and preferences, and the following services based on your customer status:</p>
+                                <div class="utility-user-additional-links"><div class="item-list"><ul><li class="first">Customer Portal</li>
+<li class="last">Red Hat Connect for Business Partners</li>
+</ul></div><div class="item-list"><ul><li class="first">User management</li>
+<li class="last">Certification Central</li>
+</ul></div></div>                  </div>
+        <div class="account-register-wrapper">
+                      <a href="https://www.redhat.com/wapps/ugc/register.html" class="account-register-link">Register</a>                                <h2>Not registered yet? Here are a few reasons why you should be:</h2><div class="item-list"><ul><li class="first">Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.</li>
+<li>View users in your organization, and edit their account information, preferences, and permissions.</li>
+<li class="last">Manage your Red Hat certifications, view exam history, and download certification-related logos and documents.</li>
+</ul></div>                  </div>
+      </section>
+      <section class="account-logout rh-user-loggedin">
+        <div class="account-welcome-wrapper">
+                      <a href="https://www.redhat.com/wapps/ugc/protected/account.html" class="account-edit-link">Edit your profile and preferences</a>                                <p>Your Red Hat account gives you access to your member profile, preferences, and other services depending on your customer status.</p>
+                            </div>
+        <div class="account-logout-wrapper">
+                      <p>For your security, if you&#039;re on a public computer and have finished using your Red Hat services, please be sure to log out.</p>
+                                <a href="https://sso.redhat.com/auth/realms/redhat-external/logout" id="redhat-account-logout-link" class="account-logout-link">Log out</a>                  </div>
+      </section>
+    </div>
+  </div>
+</section>
+                  </div>
+    </div>
+    <div id="globe-panel" class="utility-panel">
+        <div class="utility-content">
+                      <section class="globe-tray">
+  <header>
+    <div class="container">
+              <p class="rh-global-pref-heading" >Welcome to Red Hat</p>
+          </div>
+  </header>
+  <div class="content">
+    <div class="container">
+      <!-- LEFT SIDE -->
+      <div class="language-picker">
+                  <p class="rh-global-pref-heading2">Select a language</p>
+                          <section><div><div><a href="/zh/technologies/jboss-middleware" class="language-link" xml:lang="zh" hreflang="zh" title="JBoss Middleware story">简体中文</a></div><div><a href="/en/technologies/jboss-middleware" class="language-link active" xml:lang="en" hreflang="en" title="JBoss Middleware story">English</a></div><div><a href="/fr/technologies/jboss-middleware" class="language-link" xml:lang="fr" hreflang="fr" title="JBoss Middleware story">Français</a></div><div><a href="/de/technologies/jboss-middleware" class="language-link" xml:lang="de" hreflang="de" title="JBoss Middleware story">Deutsch</a></div></div><div><div><a href="/it/technologies/jboss-middleware" class="language-link" xml:lang="it" hreflang="it" title="JBoss Middleware story">Italiano</a></div><div><a href="/ja/technologies/jboss-middleware" class="language-link" xml:lang="ja" hreflang="ja" title="JBoss Middleware story">日本語</a></div><div><a href="/ko/technologies/jboss-middleware" class="language-link" xml:lang="ko" hreflang="ko" title="JBoss Middleware story">한국어</a></div><div><a href="/pt-br/technologies/jboss-middleware" class="language-link" xml:lang="pt-br" hreflang="pt-br" title="JBoss Middleware story">Português</a></div><div><a href="/es/technologies/jboss-middleware" class="language-link" xml:lang="es" hreflang="es" title="JBoss Middleware story">Español</a></div></div></section>                </div>
+      <!-- RIGHT SIDE -->
+      <div class="explore">
+        <section>
+                      <p class="rh-global-pref-heading2">See what&#039;s happening near you</p>
+                                <p>Learn what&#039;s happening for Red Hat customers around the world:</p>
+                  </section>
+        <nav>
+                      <ul class="menu"><div class="first expanded"><h3>Asia Pacific</h3><ul class="menu"><li class="first leaf"><a href="/en/global/china">China</a></li>
+<li class="leaf"><a href="/en/global/india">India</a></li>
+<li class="leaf"><a href="/en/global/japan">Japan</a></li>
+<li class="last leaf"><a href="/en/global/south-korea">South Korea</a></li>
+</ul></div><div class="expanded"><h3>Europe, Middle East, and Africa</h3><ul class="menu"><li class="first leaf"><a href="/en/global/austria">Austria</a></li>
+<li class="leaf"><a href="/en/global/czech-republic">Czech Republic</a></li>
+<li class="leaf"><a href="/en/global/denmark">Denmark</a></li>
+<li class="leaf"><a href="/en/global/finland">Finland</a></li>
+<li class="leaf"><a href="/en/global/france">France</a></li>
+<li class="leaf"><a href="/en/global/germany">Germany</a></li>
+<li class="leaf"><a href="/en/global/italy">Italy</a></li>
+<li class="leaf"><a href="/en/global/netherlands">Netherlands</a></li>
+<li class="leaf"><a href="/en/global/norway">Norway</a></li>
+<li class="leaf"><a href="/en/global/poland">Poland</a></li>
+<li class="leaf"><a href="/en/global/russia">Russia</a></li>
+<li class="leaf"><a href="/en/global/south-africa">South Africa</a></li>
+<li class="leaf"><a href="/en/global/sweden">Sweden</a></li>
+<li class="leaf"><a href="/en/global/switzerland">Switzerland</a></li>
+<li class="last leaf"><a href="/en/global/united-kingdom">United Kingdom</a></li>
+</ul></div><div class="expanded"><h3>Latin America</h3><ul class="menu"><li class="first leaf"><a href="/en/global/argentina">Argentina</a></li>
+<li class="leaf"><a href="/en/global/brazil">Brazil</a></li>
+<li class="leaf"><a href="/en/global/chile">Chile</a></li>
+<li class="leaf"><a href="/en/global/colombia">Colombia</a></li>
+<li class="last leaf"><a href="/en/global/mexico">Mexico</a></li>
+</ul></div><div class="last expanded"><h3>North America</h3><ul class="menu"><li class="first last leaf"><a href="/en/global/united-states">United States</a></li>
+</ul></div></ul>                  </nav>
+      </div>
+    </div>
+  </div>
+</section>
+                  </div>
+    </div>
+  </div>
+
+</header>
+
+  <div id="main-content">
+
+            <a id="main-content"></a>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <article class="node-3621 node node-page clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><style>
+    .mini-tabs li,
+    .mini-tabs h3 {
+        margin-bottom: 1.5rem;
+    }
+    .mini-tabs a.cta-secondary {
+        color: white;
+    }
+    body.editorial .mini-tabs .cta-secondary:hover {
+        color: #d2d3d4;
+    }
+    body.product-line .related-items .inner {
+        background: none repeat scroll 0 0 #ddd;
+        padding: 3rem 3rem 0;
+    }
+    body.product-line .related-items h3 {
+        color: #858585 !important;
+    }
+    body.product-line .related-items dl {
+        font-size: 1.6rem;
+    }
+    body.product-line .list1 .list dd {
+        padding-bottom: 2rem;
+    }
+</style>
+<section class="hero1 band">
+    <header>
+        <div class="container">
+            <p>JBoss Middleware</p>
+            <h1>Innovate faster, in a smarter way</h1>
+        </div>
+    </header>
+    <div class="content">
+        <div class="container">
+            <section class="features-full">
+                <article>
+                    <p>Red Hat<sup>&reg;</sup> JBoss<sup>&reg;</sup> Middleware is a family of lightweight, cloud-friendly, enterprise-grade products that help organizations innovate faster, in a smarter way. That's what we call enlightened innovation.</p>
+                </article>
+            </section>
+            <!-- row -->
+        </div>
+        <!-- container -->
+    </div>
+</section>
+
+<!-- promo -->
+  <section class="promo1 band">
+    <div id="promo-slider-36251" class="content carousel slide" data-ride="carousel" data-interval="false" data-wrap="false">
+      <div class="carousel-inner">
+                  <div class="item node-228321">
+  <section class="container">
+      <div class="promo1-caption"
+      data-text-color="color-white" data-position="left" data-cta-position="left">
+        <h2 class="promo1-title">Monoliths to microservices virtual event</h2>
+        <p class="promo1-teaser">Deliver better apps faster with containers, DevOps, and microservices</p>
+      </div>
+      <div class="promo1-cta" data-text-color="color-white">
+                  <a href="https://vts.inxpo.com/scripts/Server.nxp?LASCmd=AI%3A4%3BF%3AQS%2110100&amp;ShowKey=42897&amp;AffiliateData=701f20000019SzkAAE" class="cta-tertiary">WATCH ON DEMAND</a>              </div>
+  </section>
+</div>
+              </div>
+      <div class="carousel-controls">
+        <div class="container">
+          <a class="left rh-carousel-control" href="#promo-slider-36251" data-slide="prev">
+             Prev           </a>
+           <a class="right rh-carousel-control" href="#promo-slider-36251" data-slide="next">
+             Next           </a>
+          </div>
+      </div>
+    </div>
+  </section>
+
+
+<section class="ux band">
+    <header>
+    <div class="container">                    
+    </div>
+    </header>
+    <div class="content">
+        <div class="container">
+        <section class="main-and-side">
+            <article>
+            <header>
+                <h2>Develop faster, invent more intelligently</h2>
+                </header>
+                <p>Transform the way you look at your applications. Red Hat JBoss Middleware provides cloud-native services, from developer tools to data management, so you can develop applications faster, smarter, and more flexibly.</p>             
+             </article>      
+           
+        <aside>
+            <div class="video-card">
+                <div class="vidwrap">
+                    <iframe src="//www.youtube.com/embed/Iquk68o1Q-k" allowfullscreen="" frameborder="0"></iframe>
+                </div>
+                <div class="blurb">
+                    <a class="rh-video-embed-title-link" href="//www.youtube.com/embed/Iquk68o1Q-k">Design, deploy, and perform with Red Hat JBoss Middleware</a>
+                </div>
+            </div>
+        </aside>
+            </section>
+    </div>
+    </div>
+</section>
+
+<!-- Modal -->
+<div class="modal video fade" id="video1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 style="margin: 0;">BPM and BRMS: Keep your business in business.</h3>
+            </div>
+            <div class="modal-body">
+                <iframe width="560" height="315" src="//www.youtube.com/embed/Al-8A5Sh2Eo" frameborder="0" allowfullscreen></iframe>
+                <figcaption>BPM and BRMS: Keep your business in business.</figcaption>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<!-- Modal -->
+<div class="modal video fade" id="video2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 style="margin: 0;">Australian retailer Woolworths leverages Red Hat JBoss solution</h3>
+            </div>
+            <div class="modal-body">
+                <iframe width="560" height="315" src="//www.youtube.com/embed/iNIgjZd969c" frameborder="0" allowfullscreen></iframe>
+                <figcaption>Australian retailer Woolworths leverages Red Hat JBoss solution</figcaption>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<!-- Modal -->
+<div class="modal video fade" id="video3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 style="margin: 0;">The intelligent, integrated shipping company</h3>
+            </div>
+            <div class="modal-body">
+                <iframe width="560" height="315" src="//www.youtube.com/embed/dkL_ltHeJ5s?rel=0" frameborder="0" allowfullscreen></iframe>
+                <figcaption>The intelligent, integrated shipping company</figcaption>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<section class="spot1 band reversed">
+    <header>
+        <div class="container">
+            <h1>Products</h1>
+        </div>
+    </header><!-- row -->
+    <div class="content">
+    <div class="container">
+        <section class="parts-3">
+            <div>
+                <h3>Accelerate</h3>
+                <p>Modern application development cycles demand tools and services that can keep up.</p>
+                  <dl>                                
+                                <dt><a href="/en/technologies/jboss-middleware/application-platform">Red Hat JBoss Enterprise Application Platform</a></dt>
+                                <dt><a href="/en/technologies/jboss-middleware/web-server">Red Hat JBoss Web Server</a></dt>   
+                                <dt><a href="/en/technologies/jboss-middleware/data-grid">Red Hat JBoss Data Grid</a></dt>   
+                                <dt><a href="/en/technologies/jboss-middleware/developer-studio">Red Hat JBoss Developer Studio</a></dt>  
+                                <dt><a href="/en/technologies/jboss-middleware/operations-network">Red Hat JBoss Operations Network</a></dt> 
+                </dl>  
+            </div>
+            <div>
+            <h3>Integrate</h3>
+            <p>Integrating different systems and sharing data is key to making your business perform.</p>
+               <dl>                                
+                                <dt><a href="/en/technologies/jboss-middleware/fuse">Red Hat JBoss Fuse</a></dt>
+                                <dt><a href="/en/technologies/jboss-middleware/amq">Red Hat JBoss AMQ</a></dt>   
+                                <dt><a href="/en/technologies/jboss-middleware/data-virtualization">Red Hat JBoss Data Virtualization</a></dt> 
+<dt><a href="/en/technologies/jboss-middleware/3scale">Red Hat 3scale API Management</a></dt> 
+                                
+                </dl>                
+            </div>
+            <div>
+            <h3>Automate</h3>
+            <p>Business processes and rules help you define logic and event patterns in advance so that your organization can respond immediately to changing conditions.</p>            
+                <dl>                                
+                                <dt><a href="/en/technologies/jboss-middleware/business-rules">Red Hat JBoss BRMS</a></dt>
+                                <dt><a href="/en/technologies/jboss-middleware/bpm">Red Hat JBoss BPM Suite</a></dt> 
+                                
+                </dl>              
+            </div>
+        </section>
+    </div>
+  </div><!-- container -->
+</section>
+
+<section class="body1 generic1 band">
+       <header>
+         <div class="container">
+            <h1>
+          MIGRATE
+            </h1>
+              <h2>
+       Come on over</h2>
+         </div>
+        </header>
+        <div class="container">      
+              <section class="main-and-side">                                
+                                <article>
+                                    <p>Change is coming. Upgrading legacy applications and migrating loads into the cloud means your IT environment is evolving. Proprietary software can lock you into a set path. Migrating to Red Hat JBoss Middleware can help you manage your changing IT environment with more flexibility and better return on investment.</p>
+                                  <p><a class="cta-primary" href="/en/technologies/jboss-middleware/migrate">Learn more </a></p>  
+                                    
+                                </article>
+                                <aside class="icon-big">
+                                    <div>
+                                        <span class="rh-icon-moving" aria-hidden="true"></span>
+                                    </div>
+                                </aside>
+                            </section>
+       </div>
+</section>
+
+<section class="spot1 band reversed">
+    <header>
+        <div class="container">
+            <h1>Support</h1>
+            <h2>Across the Red Hat community</h2>
+        </div>
+    </header><!-- row -->
+    <div class="content">
+    <div class="container">
+        <section class="parts-2">
+            <div>
+                <h3>The value of a subscription</h3>
+                <p>Unlike proprietary software, where the software <i>is</i> the product, open source makes everything available from the start. If you look at software as the product, it seems like a static transaction. But, IT departments aren’t static anymore.</p>
+                <p>The power of a subscription is that it allows you to adapt your purchasing patterns, your development cycles, and your upgrades according to your needs.</p>
+                <a href="/en/resources/subscription-guide-red-hat-jboss-middleware" class="cta-secondary">Learn more</a><br/>
+                <a href="http://middlewareblog.redhat.com/2016/04/18/finding-value-with-red-hat-subscriptions/" class="cta-secondary">Blog</a>
+            </div>
+            <div>
+            <h3>The value of community</h3>
+            <p>More than 150 different middleware projects have been fostered by the energy and innovative spirit of the open source community. Each demands performance and security. Red Hat helps bring this energy to your enterprise.</p>
+                <p>Easy to deploy, Red Hat JBoss Middleware is tested, certified, optimized for performance, and hardened for security.</p>
+                <a href="/en/technologies/jboss-middleware/community-or-enterprise" class="cta-secondary">Learn more </a>              
+            </div>
+        </section>
+    </div>
+  </div><!-- container -->
+</section>
+
+<section data-ux-band-background="white" class="ux-band">
+    <div class="ux-band-container">
+        <header class="ux-band-header">
+            <h2 class="ux-band-header-title">Find resources by type</h2>
+        </header>
+        <div class="ux-band-body" data-ux-layout="card-band6">
+            <div data-ux-theme="gray" class="ux-card" data-ux-spacing="none" data-ux-theme-hover="dark-gray">
+                <div class="ux-card-body">
+                    <div data-eq-state="link-tile-small" class="ux-link-tile" data-eq-pts="link-tile-small:0, link-tile-medium:200" data-ux-align="center" data-ux-linktile-type="link">
+                         <a class="ux-link-tile-link" href="//www.redhat.com/en/resources?f[0]=field_resource_type%3A911&amp;f[1]=field_resource_product%3A781&amp;rset1_format=list" title="Datasheets"></a>
+                        <span class="rh-icon-data ux-link-tile-icon"></span>
+                        <div class="ux-link-tile-body">
+                           <p class="ux-link-tile-summary">Datasheets</p>
+                        </div>
+                    </div> <!--end ux-link-tile-->
+                </div> <!--end ux-card-body-->
+            </div> <!--end ux-card-->
+            <div data-ux-theme="gray" class="ux-card" data-ux-spacing="none" data-ux-theme-hover="dark-gray">
+                <div class="ux-card-body">
+                    <div data-eq-state="link-tile-small" class="ux-link-tile" data-eq-pts="link-tile-small:0, link-tile-medium:200" data-ux-align="center" data-ux-linktile-type="link">
+                         <a class="ux-link-tile-link" href="//www.redhat.com/en/resources?f[0]=field_resource_product%3A781&amp;f[1]=field_resource_type%3A921&amp;rset1_format=list" title="Whitepapers"></a>
+                        <span class="rh-icon-paper-lined ux-link-tile-icon"></span>
+                        <div class="ux-link-tile-body">
+                           <p class="ux-link-tile-summary">Whitepapers</p>
+                        </div>
+                    </div> <!--end ux-link-tile-->
+                </div> <!--end ux-card-body-->
+            </div> <!--end ux-card-->
+            <div data-ux-theme="gray" class="ux-card" data-ux-spacing="none" data-ux-theme-hover="dark-gray">
+                <div class="ux-card-body">
+                    <div data-eq-state="link-tile-small" class="ux-link-tile" data-eq-pts="link-tile-small:0, link-tile-medium:200" data-ux-align="center" data-ux-linktile-type="link">
+                         <a class="ux-link-tile-link" href="//www.redhat.com/en/resources?f[0]=field_resource_product%3A781&amp;f[1]=field_resource_type%3A4901&amp;rset1_format=list" title="Case studies"></a>
+                        <span class="rh-icon-industry ux-link-tile-icon"></span>
+                        <div class="ux-link-tile-body">
+                           <p class="ux-link-tile-summary">Case studies</p>
+                        </div>
+                    </div> <!--end ux-link-tile-->
+                </div> <!--end ux-card-body-->
+            </div> <!--end ux-card-->
+            <div data-ux-theme="gray" class="ux-card" data-ux-spacing="none" data-ux-theme-hover="dark-gray">
+                <div class="ux-card-body">
+                    <div data-eq-state="link-tile-small" class="ux-link-tile" data-eq-pts="link-tile-small:0, link-tile-medium:200" data-ux-align="center" data-ux-linktile-type="link">
+                         <a class="ux-link-tile-link" href="//www.redhat.com/en/about/events/past-events?f[0]=field_event_type%3A521&amp;f[1]=field_event_product_group%3A781&amp;rset1_format=list" title="Webinars"></a>
+                        <span class="rh-icon-webinar ux-link-tile-icon"></span>
+                        <div class="ux-link-tile-body">
+                           <p class="ux-link-tile-summary">Webinars</p>
+                        </div>
+                    </div> <!--end ux-link-tile-->
+                </div> <!--end ux-card-body-->
+            </div> <!--end ux-card-->
+            <div data-ux-theme="gray" class="ux-card" data-ux-spacing="none" data-ux-theme-hover="dark-gray">
+                <div class="ux-card-body">
+                    <div data-eq-state="link-tile-small" class="ux-link-tile ux-find-resources-band-tile" data-eq-pts="link-tile-small:0, link-tile-medium:200" data-ux-align="center" data-ux-linktile-type="link">
+                         <a class="ux-link-tile-link" href="//www.redhat.com/en/resources?f[0]=field_resource_product%3A781&amp;f[1]=field_resource_type%3A941&amp;rset1_format=list" title="Videos"></a>
+                        <span class="rh-icon-video ux-link-tile-icon"></span>
+                        <div class="ux-link-tile-body">
+                           <p class="ux-link-tile-summary">Videos</p>
+                        </div>
+                    </div> <!--end ux-link-tile-->
+                </div> <!--end ux-card-body-->
+            </div> <!--end ux-card-->
+            <div data-ux-theme="gray" class="ux-card" data-ux-spacing="none" data-ux-theme-hover="dark-gray">
+                <div class="ux-card-body">
+                    <div data-eq-state="link-tile-small" class="ux-link-tile" data-eq-pts="link-tile-small:0, link-tile-medium:200" data-ux-align="center" data-ux-linktile-type="link">
+                         <a class="ux-link-tile-link" href="#" title="Infographics"></a>
+                        <span class="rh-icon-bar-graph ux-link-tile-icon"></span>
+                        <div class="ux-link-tile-body">
+                           <p class="ux-link-tile-summary">Infographics</p>
+                        </div>
+                    </div> <!--end ux-link-tile-->
+                </div> <!--end ux-card-body-->
+            </div> <!--end ux-card-->
+        </div> <!--end ux-band-body-->
+
+    </div> <!--end ux-band-container-->
+</section>
+
+
+<section class="tsmn1 band dark tsmn-avianca">
+    <!-- specific component -->
+    <div class="content">
+        <div class="container">
+            <section>
+                <blockquote>
+                    <p>We chose Red Hat solutions because we wanted the best enterprise service bus in our business sector.</p>
+                    <small><span>FERNANDO LARA</span>, VICE PRESIDENT OF INFORMATION TECHNOLOGY, AVIANCA</small>
+                    <a href="/en/customers/winner-avianca" class="cta-primary">Learn More</a>
+                </blockquote>
+            </section>
+            <!-- row -->
+        </div>
+        <!-- container -->
+    </div>
+    <!-- content -->
+</section>
+
+
+
+<div class="ux-band"  data-ux-band-background="gray">
+    <div class="ux-band-container">
+        <header class="ux-band-header" data-ux-band-header-alternate="grayscale">
+            <h2 class="ux-band-header-title">Trusted in the industry</h2>
+        </header>
+        <div class="ux-band-content" data-ux-layout="4 4 4 flex">
+            <div class="ux-card" data-ux-theme="dark rich-black" data-ux-justify="justify" data-ux-card-background="tried-tested-trusted">
+                <div class="ux-card-header">
+                    <h3 class="ux-card-header-title">Tried. Tested. Trusted.</h3>
+                </div> <!--end ux-card-header-->
+                <div class="ux-card-body">
+                    <div class="ux-generic">
+                        <p class="ux-generic-summary">From the trading floor to air-traffic control, industries around the world rely on Red Hat</p>
+                    </div>
+                </div> <!--end ux-card-body-->
+                <div class="ux-card-footer">
+                    <div class="ux-cta">
+                        <a class="ux-cta-link" data-ux-cta-type="secondary" href="/en/about/trusted">See why customers trust Red Hat</a>
+                    </div>
+                </div> <!--end ux-card-footer-->
+            </div>
+            <div class="ux-card" data-ux-theme="dark rich-black" data-ux-justify="justify" data-ux-card-background="gartner">
+                <div class="ux-card-header">
+                    <div class="ux-image-embed">
+                      <div class="ux-image-embed-container">
+<div class="media media-element-container media-default"><img class="ux-image-embed-img" alt="Gartner" title="Gartner logo" src="https://www.redhat.com/cms/managed-files/gartner-logo-120x27.png" width="120" height="27" /></div>
+                      </div>
+                    </div>
+                </div> <!--end ux-card-header-->
+                <div class="ux-card-body">
+                    <div class="ux-generic" >
+                        <p class="ux-generic-summary">Red Hat receives "positive" rating in Gartner's 2016 Vendor Rating Report</p>
+                    </div>
+                </div>
+                <div class="ux-card-footer">
+                    <div class="ux-cta">
+                        <a class="ux-cta-link" data-ux-cta-type="secondary" href="/en/about/press-releases/red-hat-receives-%E2%80%9Cpositive%E2%80%9D-rating-gartner%E2%80%99s-vendor-rating-report">See why analysts trust Red Hat</a>
+                    </div>
+                </div>
+            </div>
+            <div class="ux-card" data-ux-theme="dark rich-black" data-ux-justify="justify" data-ux-card-background="subscription">
+                <div class="ux-card-header">
+                    <h3 class="ux-card-header-title">Value of a subscription</h3>
+                </div> <!--end ux-card-header-->
+                <div class="ux-card-body">
+                    <div class="ux-generic">
+                        <p class="ux-generic-summary">Red Hat customers get the latest software, trust that it's secure, and gain access to a community of experts making software the open source way.</p>
+                    </div>
+                </div>
+                <div class="ux-card-footer">
+                    <div class="ux-cta">
+                        <a class="ux-cta-link" data-ux-cta-type="secondary" href="/en/about/value-of-subscription">See for yourself</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="spot1 band imaged reversed communities">
+    <header>
+        <div class="container">
+            <h1>Open Source Communities</h1>
+            <h2>We grow when we share</h2>
+        </div>
+    </header>
+
+    <div class="content">
+        <div class="container">
+            <section class="parts-3 equal-height">
+                <div class="has-cta">
+                    <h2>JBoss Developer</h2>
+                    <p>Community-driven open source middleware</p>
+                    <a href="http://www.jboss.org/overview/" class="cta-primary">Explore</a>
+                </div>
+                <div class="has-cta">
+                    <h2>JBoss community or Red Hat JBoss Middleware</h2>
+                    <p>Which is best for your project?</p>
+                    <a href="/en/technologies/jboss-middleware/community-or-enterprise" class="cta-primary">Learn More</a>
+                </div>
+                <div class="has-cta">
+                    <h2>Why migrate to JBoss</h2>
+                    <p>Reduce costs and increase productivity by moving to Red Hat JBoss Middleware.</p>
+                    <a href="/en/technologies/jboss-middleware/migrate" class="cta-primary">Learn how</a>
+                </div>
+            </section>
+        </div>
+    </div>
+</section>
+
+<section class="promo2 band">
+    <div class="content">
+        <div class="container">
+            <section class="equal-height">
+                <div style="height: 106px;" class="promo2-content">
+                    <h2 class="promo2-headline">Get useful IT insights every month</h2>
+                    <p class="promo2-copy">Sign up for Red Hat Shares, a newsletter with our take on technology trends, open source software, recent industry news, and more.
+</p>
+                </div><!-- promo2 content -->
+                <div style="height: 106px;" class="promo2-cta">
+                    <a href="https://engage.redhat.com/red-hat-shares?intcmp=7016000000154xMAAQ" class="cta-primary">Subscribe</a>
+                </div><!-- promo2 cta -->
+            </section>
+        </div>
+    </div><!-- content -->
+</section>
+
+<!-- Insights and Ideas -->
+<!--[if lt IE 9]><section class="idea1 imaged band lt-ie9"> <![endif]-->
+<!--[if IE 9]><section class="idea1 imaged band ie9"> <![endif]-->
+<!--[if gt IE 9]><!--><section class="idea1 imaged band imaged-disclaimer"> <!--<![endif]-->
+      <header>
+        <div class="container">
+        <h1>Topics</h1>
+        </div><!-- container -->
+      </header>
+
+      <!-- specific component -->
+      <div class="content">
+        <div class="container">
+          <section class="parts-3 equal-height">
+
+            <article class="node-shared">
+                  <div class="insight">
+              <a href="/en/insights/devops">
+              <div>
+                <h2 class="devops"><span>The what, why, and how of DevOps</span></h2>
+                <h3>DevOps</h3>
+                <p>DevOps gives IT the ability to go faster, better. That means more collaboration, more innovation, and more business success.</p>
+              </div>
+              </a>
+            </div>
+
+<style>
+body.editorial .idea1 .insight h2.devops {background-image: url(https://www.redhat.com/cms/managed-files/card_devops_570x142.jpg);}
+</style> </article>
+
+            <article class="node-shared">
+                  <div class="insight">
+              <a href="/en/insights/internet-of-things">
+              <div>
+                <h2 class="iot"><span>What does the IoT mean for businesses?</span></h2>
+                <h3>Internet of Things</h3>
+                <p>It can create new opportunities to connect with customers and partners—as well as oceans of data to collect, store, and analyze.</p>
+              </div>
+              </a>
+            </div> </article>
+
+            <!-- <article class="node-shared">
+                  <div class="insight">
+              <a href="/en/insights/big-data">
+              <div>
+                <h2 class="big-data"><span>The right foundation for big data</span></h2>
+                <h3>Big data</h3>
+                <p>Extracting value from data is critical to your business. But there's more to it than analytics. Big data success starts with a foundation that has these 5 key characteristics.</p>
+              </div>
+              </a>
+            </div> </article>
+ -->
+            <article class="node-shared">
+                <style>
+                body.editorial .idea1 .node-shared .ux-card {height: inherit;}
+                body.editorial .idea1 .node-shared .ux-card[data-ux-theme="dark"] p {color: white;}
+                body.editorial .idea1 .node-shared .ux-card .ux-card-footer {position: absolute; bottom: 30px;}
+                </style>
+                <div class="ux-card" data-ux-theme="dark" data-ux-card-background="cloud-crangle" data-ux-justify="justify" data-ux-layout="min-stacked">
+                    <div class="ux-card-header" data-ux-align="bleed">
+                        <h3 class="ux-card-header-label">
+                            <svg class="ux-card-header-svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+                                <style type="text/css">
+                                .st0{fill:none;}
+                                </style>
+                                <g>
+                                <path class="st0" d="M-51.7-53.5v1.9l0,0h5.7c0.2,0,0.4-0.2,0.4-0.4v-1.9h-5.7C-51.5-53.9-51.7-53.7-51.7-53.5z"/>
+                                </g>
+                                <g>
+                                <path class="st0" d="M-45.6-52v-1.9h-5.7c-0.2,0-0.4,0.2-0.4,0.4v1.9l0,0h5.7C-45.8-51.6-45.6-51.8-45.6-52z"/>
+                                </g>
+                                <g>
+                                <path class="st0" d="M-51.7-53.5v1.9l0,0h5.7c0.2,0,0.4-0.2,0.4-0.4v-1.9h-5.7C-51.5-53.9-51.7-53.7-51.7-53.5z"/>
+                                </g>
+                                <path d="M26.5,12.8H20V9.4C20,8.6,19.4,8,18.6,8H5.5C4.8,8,4.2,8.6,4.2,9.4v6.3c0,0.8,0.6,1.4,1.4,1.4h0.1v0h1.6
+                                c0.1,0.1,0.1,0.1,0.1,0.2c0.1,0.2-0.1,0.6-0.2,0.9l-0.8,1.2h1.4c2.6,0,3.6-1.4,4-2.2H12v3.4c0,0.4,0.1,0.7,0.4,1
+                                c0.3,0.3,0.6,0.4,1,0.4c0,0,0,0,0,0h6.9c0.4,0.8,1.3,2.2,4,2.2h1.4l-0.8-1.2c-0.2-0.2-0.3-0.6-0.3-0.9c0,0,0-0.1,0.1-0.2h0.5
+                                c0,0,0,0,0,0h1.3c0.8,0,1.4-0.6,1.4-1.4v-6.3C27.8,13.4,27.2,12.8,26.5,12.8z M12,14.1v1.4h-1.5l-0.1,0.7c0,0-0.2,1.1-1.5,1.4
+                                c0-0.3,0-0.5,0-0.8c-0.1-0.5-0.5-0.9-1-1.2l-0.4,0c-0.1,0-0.2-0.1-0.2-0.1H5.7v-6h12.9v3.3h-5.2C12.6,12.8,12,13.4,12,14.1z
+                                M18.5,14.3v1.2h-5v-1.2H18.5z M26.3,20.3L26.3,20.3L26.3,20.3l-2,0l-0.2,0l-0.1,0c-0.5,0.3-0.9,0.7-1,1.2c-0.1,0.2-0.1,0.5,0,0.8
+                                c-1.4-0.4-1.5-1.4-1.5-1.4l-0.1-0.7h-2.1v0h-5.8V17h5.2c0.8,0,1.4-0.6,1.4-1.4v-1.4h6.3V20.3z"/>
+                            </svg>
+                            Red Hat blog
+                        </h3>
+                    </div>
+                    <div class="ux-card-body">
+                        <div class="ux-generic">
+                            <h3><a href="//middlewareblog.redhat.com/">
+                            Middleware blog
+                            </a></h3>
+                            <p>Learn about the latest in middleware that makes your IT team more productive and that makes the things that should work, actually work.</p>
+                        </div>
+                        <div class="ux-card-footer">
+                            <div class="ux-cta">
+                                <a class="ux-cta-link" data-ux-cta-type="secondary" href="//middlewareblog.redhat.com/">Visit the blog</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <a href="/en/topics" class="cta-primary">Explore topics</a>
+          </section>
+          <section class="disclaimer">
+            <small>* <a href="http://www.linuxfoundation.org/news-media/announcements/2014/03/linux-foundation-releases-first-ever-collaborative-development" target="_blank">http://www.linuxfoundation.org/news-media/announcements/2014/03/linux-foundation-releases-first-ever-collaborative-development</a></small>
+            <small>The OpenStack<sup>&reg;</sup> Word Mark and OpenStack Logo are either registered trademarks / service marks or trademarks / service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. We are not affiliated with, endorsed or sponsored by the OpenStack Foundation or the OpenStack community.</small>
+          </section>
+        </div>
+      </div>
+</section></div>
+      </div>
+</div>
+<div class="field field-name-field-page-js field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">
+<script>
+  (function ($) {
+    Drupal.behaviors.jsfieldformatter_behavior_5a09aed633861 = {
+      attach: function (context, settings) {
+        $(document).ready(function() {
+    $('.modal-body').fitVids();
+jQuery(document).bind('hidden.bs.modal', function() {
+  var vid = jQuery('.modal.video iframe[src*="youtube"]');
+  if ( vid.length > 0 ){
+    vid.each(function() {
+        var src = jQuery(this).attr('src');
+        jQuery(this).attr('src', '');
+        jQuery(this).attr('src', src);
+    });
+  }
+});
+});
+      }
+    };
+  })(jQuery);</script></div>
+      </div>
+</div>
+
+  
+  
+</article>
+
+</div>
+  </div>
+          
+    
+  </div>
+
+  <aside class="mini-bar band">
+  <div class="mini-bar-inner">
+    <div class="container">
+      <div>
+        <div class="content">
+
+          <ul class="options">
+            <li class="contact"><span>Contact Us</span></li>
+            <li class="share"><span>Share &amp; Save</span></li>
+          </ul>
+
+          <div class="mini-bar-panels">
+            <div class="contact-panel">
+              <h3>Contact Us</h3>
+              <div class="mini-bar-links">
+                <ul class="contact-options">
+                  <li><a href="tel:+19197543700" class="web-icon-call">+1 (919) 754-3700</a></li>
+                  <li><a href=" https://access.redhat.com/support/contact/customerService/" class="web-icon-envelope">Customer service</a></li>
+                                      <li><a href="http://access.redhat.com" class="web-icon-dashboard">Customer Portal</a></li>
+                                                        <li><a href="/en/about/contact" class="web-icon-plus">More ways to connect</a></li>
+                                  </ul>
+                                  <h4>Sales</h4>
+                  <ul class="sales-options">
+                                          <li><a href="/en/about/contact/sales" class="web-icon-plus">Contact form</a></li>
+                                                              <li><a href="http://redhat.force.com/finder" class="web-icon-laptop">Find a partner</a></li>
+                                                              <li><a href="https://www.redhat.com/wapps/store/catalog.html" class="web-icon-cart">Buy online (Global)</a><br /><a href="/en/about/japan-buy" class="web-icon-cart">Buy online (Japan)</a></li>
+                                      </ul>
+                                                  <h4>Training</h4>
+                  <ul class="training-options">
+                      <li><a href="/en/services/training/contact" class="web-icon-plus">Contact form</a></li>
+                  </ul>
+                              </div>
+            </div>
+
+            <div class="share-panel">
+              <h3>Share and save this page</h3>
+              <div class="mini-bar-links">
+                                  <ul class="save-options">
+                                          <li><a href="javascript:window.print();" class="print-link web-icon" title="Click to print this page"><i class="web-icon-print"></i> Print</a></li>
+                                                              <li><a href="mailto:?subject=Check out this redhat.com page: JBoss Middleware story&amp;body=I saw this on redhat.com and thought you might be interested.  Click the following link to read: https://www.redhat.com/en/technologies/jboss-middleware" class="download-link web-icon" title="Click to send this page as email"><i class="web-icon-envelope"></i> Send as email</a></li>
+                                      </ul>
+                                                  <div class="item-list"><ul class="share-options"><li class="first"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.redhat.com/en/technologies/jboss-middleware" class="redhat_www_share-facebook"><span class='web-icon web-icon-facebook'></span>Facebook</a></li>
+<li><a href="https://plus.google.com/share?url=https%3A//www.redhat.com/en/technologies/jboss-middleware" class="redhat_www_share-google"><span class='web-icon web-icon-gplus'></span>Google+</a></li>
+<li><a href="https://twitter.com/share?url=https%3A//www.redhat.com/en/technologies/jboss-middleware&amp;text=JBoss%20Middleware%20story" class="redhat_www_share-twitter"><span class='web-icon web-icon-twitter'></span>Twitter</a></li>
+<li><a href="http://www.linkedin.com/shareArticle?url=https%3A//www.redhat.com/en/technologies/jboss-middleware&amp;title=JBoss%20Middleware%20story&amp;source=Redhat" class="redhat_www_share-linkedin"><span class='web-icon web-icon-linkedin'></span>LinkedIn</a></li>
+<li class="last"><a href="http://www.reddit.com/submit?url=https%3A//www.redhat.com/en/technologies/jboss-middleware&amp;title=JBoss%20Middleware%20story" class="redhat_www_share-reddit"><span class='web-icon web-icon-reddit'></span>Reddit</a></li>
+</ul></div>                              </div>
+            </div>
+
+          </div>
+        </div><!-- content -->
+
+      </div><!-- row -->
+    </div><!-- container -->
+  </div><!-- mini-bar-inner -->
+</aside><!-- mini-bar -->
+  <footer>
+    <section class="extended">
+    <div class="content">
+      <div class="container">
+        <nav class="row footer-items"><div class="first expanded col-md-2 col-sm-2 foot-col foot-logo"><h3>Redhat</h3></div><div class="first expanded col-md-2 col-sm-2 foot-col foot-featured"><h3>Featured</h3><ul class="menu"><li class="first leaf"><a href="/en/technologies/linux-platforms/enterprise-linux">Red Hat Enterprise Linux</a></li>
+<li class="leaf"><a href="/en/technologies/storage/gluster">Red Hat Gluster Storage</a></li>
+<li class="leaf"><a href="/en/technologies/management/satellite">Red Hat Satellite</a></li>
+<li class="leaf"><a href="/en/technologies/cloud-computing/openshift">Red Hat OpenShift Container Platform</a></li>
+<li class="leaf"><a href="/en/technologies/linux-platforms/openstack-platform">Red Hat  OpenStack Platform</a></li>
+<li class="last leaf"><a href="/en/technologies/mobile/application-platform">Red Hat Mobile Application Platform</a></li>
+</ul></div>
+<div class="expanded col-md-2 col-sm-2 foot-col foot-tools"><h3>Tools</h3><ul class="menu"><li class="first leaf"><a href="https://www.redhat.com/wapps/sso/login.html">My account</a></li>
+<li class="leaf"><a href="https://access.redhat.com">Customer Portal</a></li>
+<li class="leaf"><a href="https://access.redhat.com/certification">Hardware catalog</a></li>
+<li class="leaf"><a href="http://partner.redhat.com/connect/business">Red Hat Connect for Business Partners</a></li>
+<li class="last leaf"><a href="/en/resources">Resource library</a></li>
+</ul></div>
+<div class="expanded col-md-2 col-sm-2 foot-col foot-purchase"><h3>Purchase</h3><ul class="menu"><li class="first leaf"><a href="//www.redhat.com/en/store">Red Hat Store</a></li>
+<li class="leaf"><a href="/en/about/japan-buy">Buy online (Japan)</a></li>
+<li class="leaf"><a href="/en/about/contact/sales">Contact sales</a></li>
+<li class="leaf"><a href="/en/services/training/contact">Contact training</a></li>
+<li class="last leaf"><a href="http://redhat.force.com/finder/">Find a partner</a></li>
+</ul></div>
+<div class="expanded col-md-2 col-sm-2 foot-col foot-communicate"><h3>Communicate</h3><ul class="menu"><li class="first leaf"><a href="/en/about/contact">Contact us</a></li>
+<li class="leaf"><a href="/en/about/mediarelations/contact">Media inquiries</a></li>
+<li class="leaf"><a href="/en/about/analysts">Industry analyst inquiries</a></li>
+<li class="leaf"><a href="/en/about/feedback">Feedback</a></li>
+<li class="leaf"><a href="/en/about/social">Social</a></li>
+<li class="last leaf"><a href="https://engage.redhat.com/red-hat-shares?intcmp=7016000000154xCAAQ">Red Hat newsletter</a></li>
+</ul></div>
+<div class="last expanded col-md-2 col-sm-2 foot-col foot-about"><h3>About</h3><ul class="menu"><li class="first leaf"><a href="/en/about/newsroom">Newsroom</a></li>
+<li class="leaf"><a href="/en/events">Events</a></li>
+<li class="leaf"><a href="/en/all-blogs">Blogs</a></li>
+<li class="leaf"><a href="/en/about/videos">Videos</a></li>
+<li class="leaf"><a href="/en/about/around-the-world">Around the world</a></li>
+<li class="leaf"><a href="/en/topics">Topics</a></li>
+<li class="leaf"><a href="http://investors.redhat.com/">Investor Relations</a></li>
+<li class="leaf"><a href="http://jobs.redhat.com/">Jobs @ Red Hat</a></li>
+<li class="last leaf"><a href="http://www.redhat.corpmerchandise.com/">Cool Stuff Store</a></li>
+</ul></div>
+</nav>      </div>
+    </div>
+  </section>
+      <section class="traditional">
+    <div class="content">
+      <div class="container">
+        <section>
+          <div class="traditional-primary">
+            <div class="row">
+              <div class="event-logo">
+                <div id="block-block-5" class="block block-block block-footer-promote">
+
+      
+  <a href="http://www.redhat.com/summit/"><img src="/profiles/rh/themes/redhatdotcom/img/logo-summit.png" alt="Red Hat Summit" style="float: right;"></a>
+
+</div>
+              </div>
+              <div class="social-links">
+                <nav id="foot-social"><ul><li class="first leaf"><a href="https://plus.google.com/+RedHat" class="icon-google-plus"></a></li>
+<li class="leaf"><a href="http://www.linkedin.com/company/red-hat" class="icon-linkedin-sign"></a></li>
+<li class="leaf"><a href="http://www.youtube.com/user/RedHatVideos" class="icon-youtube"></a></li>
+<li class="leaf"><a href="https://www.facebook.com/redhatinc" class="icon-facebook"></a></li>
+<li class="last leaf"><a href="https://twitter.com/RedHatNews" class="icon-twitter"></a></li>
+</ul></nav>              </div>
+            </div>
+          </div>
+          <div id="legal" class="legal">
+            <div class="row">
+              <ul class="menu"><li class="first leaf"><a href="/en/about/privacy-policy">Privacy statement</a></li>
+<li class="leaf"><a href="/en/about/terms-use">Terms of use</a></li>
+<li class="last leaf"><a href="/en/about/all-policies-guidelines">All policies and guidelines</a></li>
+</ul>              <div class="copyright">Copyright ©2017 Red Hat, Inc.</div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+  </footer>
+
+      <script type="text/javascript" src="/sites/default/files/advagg_js/js__6pKtxAsuiEwzLqzoBMwLb9k53D1ylTZ0_Wo0K-Slycc__tofWCRo9EstSHqoc3_PkzULPYnY3J0XlHcENfxp_9Ww__ltXw3a2NPwUIBdb_n0GtJ8Q6h4El-KxPD_2nhGIgyUo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  if (("undefined" !== typeof _satellite) && ("function" === typeof _satellite.pageBottom)) {
+      _satellite.pageBottom();
+  }
+//--><!]]>
+</script>
+    </div>
+  </body>
+</html>
